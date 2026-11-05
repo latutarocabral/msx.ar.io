@@ -1,0 +1,11 @@
+{
+  "name": "Mi Portal",
+  "version": "1.0.0",
+  "items": [
+    {
+      "title": "Navegador",
+      "icon": "public",
+      "action": "link:https://lite.duckduckgo.com/lite/"
+    }
+  ]
+}
